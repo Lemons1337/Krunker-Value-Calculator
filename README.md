@@ -1,2 +1,2 @@
-# Krunker-Market-Value-Calculator
+# Krunker Market Item Value Calculator
 Neat little script to show the value (USD) of an item in the market
